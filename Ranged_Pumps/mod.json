@@ -1,0 +1,10 @@
+{
+  "mod_id": "rangedpumps",
+  "mod_name": "Ranged Pumps",
+  "mod_dir": "/Ranged_Pumps/",
+  "mod_version": "0.3",
+  "mc_version": "1.10.2",
+  "mod_authors": ["raoulvdberge"],
+  "url_website": "https://minecraft.curseforge.com/projects/ranged-pumps",
+  "description": "Ender Thermic Pump from Extra Utilities in Minecraft 1.10."
+}
