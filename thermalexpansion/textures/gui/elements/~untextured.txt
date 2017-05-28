@@ -1,0 +1,5 @@
+slots.png
+SlotsCB.png
+slots_cb.png
+slots_crafter.png
+slots_crafter_cb.png
